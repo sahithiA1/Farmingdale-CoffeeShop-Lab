@@ -1,1 +1,1 @@
-# Farmingdale-CopyShop-Lab
+# Farmingdale-CoffeeShop-Lab
